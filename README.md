@@ -11,3 +11,6 @@
 
 > BIT.cpp:  
 > &emsp;Binary Indexed Tree (Fenwick Tree) template
+
+> BIT_full.cpp:  
+> &emsp;O(log n) range query, O(log n) range update
