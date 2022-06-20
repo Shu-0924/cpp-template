@@ -1,2 +1,2 @@
 # cpp-template
-String.cpp: can pass the problem https://zerojudge.tw/ShowProblem?problemid=b115
+String.cpp: Can pass the problem https://zerojudge.tw/ShowProblem?problemid=b115
