@@ -18,7 +18,7 @@ using namespace std;
 #define uni(x) (x).erase(unique(all(x)), (x).end())
 #define sz(x) (int)x.size()
 
-//------------------- Basic -------------------//
+//------------------- BIT 3.0 -------------------//
 #define int ll
 int N;
 int D[1 << 20] = {}; // store d[i]
