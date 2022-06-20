@@ -8,4 +8,5 @@
 > DSU.cpp:  
   &emsp;Disjoint Set Union-find template
 
-> BIT.cpp:
+> BIT.cpp:  
+  &emsp;Binary Indexed Tree (Fenwick Tree) template
