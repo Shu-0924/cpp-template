@@ -6,6 +6,9 @@
 > &emsp;Big integer template  
 > &emsp;Pass the problem [1](https://zerojudge.tw/ShowProblem?problemid=b115) and [2](https://zerojudge.tw/ShowProblem?problemid=a021)
 
+> index_AVL.cpp:  
+> &emsp;AVL Tree template (index query available)
+
 > DSU.cpp:  
 > &emsp;Disjoint Set Union-find template
 
